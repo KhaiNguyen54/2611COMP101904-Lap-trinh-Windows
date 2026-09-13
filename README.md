@@ -4,6 +4,6 @@
 
 ## Họ và tên: Nguyễn Tuấn Khải
 
-## Lớp: 51CNTTA
+## Lớp: 51.CNTTA
 
 ## Nhóm: 12
