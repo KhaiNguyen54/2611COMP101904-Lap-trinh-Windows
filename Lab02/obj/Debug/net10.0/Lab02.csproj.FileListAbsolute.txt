@@ -1,0 +1,15 @@
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\bin\Debug\net10.0\Lab02.exe
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\bin\Debug\net10.0\Lab02.deps.json
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\bin\Debug\net10.0\Lab02.runtimeconfig.json
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\bin\Debug\net10.0\Lab02.dll
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\bin\Debug\net10.0\Lab02.pdb
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.AssemblyInfoInputs.cache
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.AssemblyInfo.cs
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.csproj.CoreCompileInputs.cache
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.sourcelink.json
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.dll
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\refint\Lab02.dll
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.pdb
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\Lab02.genruntimeconfig.cache
+D:\Code\2611COMP101904-Lap-trinh-Windows\Lab02\obj\Debug\net10.0\ref\Lab02.dll
