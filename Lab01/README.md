@@ -35,18 +35,15 @@
 
 
 ## Cách chạy bằng terminal
-Mở terminal tại thư mục project:
-powershell
-cd "\2611COMP101904-Lap-trinh-Windows\Lab01\Lab01_Ungdungthongtincanhan"
-
+Mở terminal cd đến thư mục project:
+cd "2611COMP101904-Lap-trinh-Windows\Lab01\Lab01_Ungdungthongtincanhan"
 
 ## Chạy Form:
 dotnet build Lab01.sln
 dotnet run --project Lab01.csproj
 
-
 ## Ghi chú 
-File `Lab01.sln` đã được cấu hình để trỏ đúng đến project `Lab01.csproj`. Project sử dụng target framework:
+File `Lab01.sln` được cấu hình để trỏ đúng đến project `Lab01.csproj`. Project sử dụng target framework:
 
 ```xml
 <TargetFramework>net10.0-windows</TargetFramework>

@@ -2,15 +2,11 @@
 {
     partial class Form1
     {
-        /// <summary>
-        ///  Required designer variable.
-        /// </summary>
+        // Cần thiết kế một biến để lưu trữ các thành phần của Form
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        ///  Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        // Dọn dẹp tất cả các tài nguyên đang sử dụng.
+        // <param name="disposing">true nếu các tài nguyên được quản lý cần được hủy bỏ; ngược lại, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,10 +18,7 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
-        /// </summary>
+        // Phương thức cần thiết cho trình thiết kế. Không được sửa đổi
         private void InitializeComponent()
         {
             lblTitle = new Label();
@@ -45,9 +38,8 @@
             lblKhoa = new Label();
             grpGioitinh.SuspendLayout();
             SuspendLayout();
-            // 
-            // lblTitle
-            // 
+            
+            // lblTitle 
             lblTitle.BackColor = SystemColors.Control;
             lblTitle.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblTitle.ForeColor = Color.SteelBlue;
@@ -57,9 +49,8 @@
             lblTitle.TabIndex = 0;
             lblTitle.Text = "THÔNG TIN CÁ NHÂN";
             lblTitle.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // lblHoTen
-            // 
+             
+            // lblHoTen 
             lblHoTen.AutoSize = true;
             lblHoTen.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblHoTen.ForeColor = Color.SteelBlue;
@@ -68,9 +59,8 @@
             lblHoTen.Size = new Size(59, 20);
             lblHoTen.TabIndex = 1;
             lblHoTen.Text = "Họ tên:";
-            // 
-            // lblNamSinh
-            // 
+             
+            // lblNamSinh 
             lblNamSinh.AutoSize = true;
             lblNamSinh.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblNamSinh.ForeColor = Color.SteelBlue;
@@ -79,23 +69,20 @@
             lblNamSinh.Size = new Size(78, 20);
             lblNamSinh.TabIndex = 2;
             lblNamSinh.Text = "Năm sinh:";
-            // 
+     
             // txtHoTen
-            // 
             txtHoTen.Location = new Point(160, 77);
             txtHoTen.Name = "txtHoTen";
             txtHoTen.Size = new Size(300, 27);
             txtHoTen.TabIndex = 3;
-            // 
-            // txtNamSinh
-            // 
+             
+            // txtNamSinh 
             txtNamSinh.Location = new Point(160, 117);
             txtNamSinh.Name = "txtNamSinh";
             txtNamSinh.Size = new Size(150, 27);
             txtNamSinh.TabIndex = 4;
-            // 
+             
             // grpGioitinh
-            // 
             grpGioitinh.Controls.Add(radNu);
             grpGioitinh.Controls.Add(radNam);
             grpGioitinh.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -106,9 +93,8 @@
             grpGioitinh.TabIndex = 5;
             grpGioitinh.TabStop = false;
             grpGioitinh.Text = "Giới tính";
-            // 
-            // radNu
-            // 
+             
+            // radNu 
             radNu.AutoSize = true;
             radNu.Location = new Point(120, 20);
             radNu.Name = "radNu";
@@ -117,9 +103,8 @@
             radNu.TabStop = true;
             radNu.Text = "Nữ";
             radNu.UseVisualStyleBackColor = true;
-            // 
-            // radNam
-            // 
+ 
+            // radNam 
             radNam.AutoSize = true;
             radNam.Location = new Point(20, 20);
             radNam.Name = "radNam";
@@ -128,9 +113,8 @@
             radNam.TabStop = true;
             radNam.Text = "Nam";
             radNam.UseVisualStyleBackColor = true;
-            // 
+
             // lblEmail
-            // 
             lblEmail.AutoSize = true;
             lblEmail.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblEmail.ForeColor = Color.SteelBlue;
@@ -139,19 +123,17 @@
             lblEmail.Size = new Size(50, 20);
             lblEmail.TabIndex = 6;
             lblEmail.Text = "Email:";
-            // 
-            // cboKhoa
-            // 
+             
+            // cboKhoa 
             cboKhoa.DropDownStyle = ComboBoxStyle.DropDownList;
             cboKhoa.FormattingEnabled = true;
-            cboKhoa.Items.AddRange(new object[] { "các ngành tôi chọn:", "Sư phạm Tin học", "Công nghệ Thông tin", "Chính trị học", "Công tác xã hội", "Địa lý học", "Du lịch", "Giáo dục Chính trị", "Giáo dục Mầm non" });
+            cboKhoa.Items.AddRange(new object[] { "các ngành tôi chọn:", "Sư phạm Sinh học", "Công nghệ Thông tin", "Chính trị học", "Công tác xã hội", "Địa lý học", "Du lịch", "Giáo dục Chính trị", "Giáo dục Mầm non", "Sư Phạm Toán", "Sư Phạm Văn", "Sư Phạm Vật lý", "Sư Phạm Hóa học", "Sư Phạm Ngữ văn", "Sư Phạm Lịch sử", "Sư Phạm Địa lý", "Sư Phạm Tiếng Anh", "Sư Phạm Tiếng Trung", "Sư Phạm Tiếng Nhật", "Sư Phạm Tiếng Hàn", "Sư Phạm Âm nhạc", "Sư Phạm Mỹ thuật" });
             cboKhoa.Location = new Point(160, 255);
             cboKhoa.Name = "cboKhoa";
             cboKhoa.Size = new Size(300, 28);
             cboKhoa.TabIndex = 7;
-            // 
+            
             // btnHienThi
-            // 
             btnHienThi.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnHienThi.ForeColor = Color.MidnightBlue;
             btnHienThi.Location = new Point(30, 300);
@@ -161,9 +143,8 @@
             btnHienThi.Text = "Hiển thị";
             btnHienThi.UseVisualStyleBackColor = true;
             btnHienThi.Click += btnHienThi_Click;
-            // 
-            // btnXoa
-            // 
+             
+            // btnXoa 
             btnXoa.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnXoa.ForeColor = Color.MidnightBlue;
             btnXoa.Location = new Point(170, 300);
@@ -173,9 +154,8 @@
             btnXoa.Text = "Xóa";
             btnXoa.UseVisualStyleBackColor = true;
             btnXoa.Click += btnXoa_Click;
-            // 
+            
             // btnThoat
-            // 
             btnThoat.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnThoat.ForeColor = Color.MidnightBlue;
             btnThoat.Location = new Point(310, 300);
@@ -185,16 +165,15 @@
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = true;
             btnThoat.Click += btnThoat_Click;
-            // 
+            
             // txtEmail
-            // 
             txtEmail.Location = new Point(160, 157);
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new Size(300, 27);
             txtEmail.TabIndex = 11;
-            // 
+             
             // lblKhoa
-            // 
+            
             lblKhoa.AutoSize = true;
             lblKhoa.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblKhoa.ForeColor = Color.SteelBlue;
@@ -203,9 +182,8 @@
             lblKhoa.Size = new Size(79, 20);
             lblKhoa.TabIndex = 12;
             lblKhoa.Text = "Khoa/Lớp:";
-            // 
-            // Form1
-            // 
+             
+            // Form1 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Control;
@@ -233,8 +211,8 @@
             PerformLayout();
         }
 
+        // Kết thúc vùng mã do trình thiết kế tạo ra
         #endregion
-
         private Label lblTitle;
         private Label lblHoTen;
         private Label lblNamSinh;

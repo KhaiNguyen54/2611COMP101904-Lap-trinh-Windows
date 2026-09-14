@@ -12,10 +12,11 @@ namespace Lab01_Ungdungthongtincanhan
             this.ClientSize = new System.Drawing.Size(500, 400); // Đặt kích thước vùng làm việc của Form
         }
 
+        // Lựa chọn các khoa/lớp trong ComboBox khi Form được tải
         private void Form1_Load(object sender, EventArgs e)
         {
             cboKhoa.Items.Clear();
-            cboKhoa.Items.Add("Sư phạm Tin học");
+            cboKhoa.Items.Add("Sư phạm Sinh học");
             cboKhoa.Items.Add("Công nghệ Thông tin");
             cboKhoa.Items.Add("Chính trị học");
             cboKhoa.Items.Add("Công tác xã hội");
@@ -23,6 +24,19 @@ namespace Lab01_Ungdungthongtincanhan
             cboKhoa.Items.Add("Du lịch");
             cboKhoa.Items.Add("Giáo dục Chính trị");
             cboKhoa.Items.Add("Giáo dục Mầm non");
+            cboKhoa.Items.Add("Sư Phạm Toán");
+            cboKhoa.Items.Add("Sư Phạm Văn");
+            cboKhoa.Items.Add("Sư Phạm Vật lý");
+            cboKhoa.Items.Add("Sư Phạm Hóa học");
+            cboKhoa.Items.Add("Sư Phạm Ngữ văn");
+            cboKhoa.Items.Add("Sư Phạm Lịch sử");
+            cboKhoa.Items.Add("Sư Phạm Địa lý");
+            cboKhoa.Items.Add("Sư Phạm Tiếng Anh");
+            cboKhoa.Items.Add("Sư Phạm Tiếng Trung");
+            cboKhoa.Items.Add("Sư Phạm Tiếng Nhật");
+            cboKhoa.Items.Add("Sư Phạm Tiếng Hàn");
+            cboKhoa.Items.Add("Sư Phạm Âm nhạc");
+            cboKhoa.Items.Add("Sư Phạm Mỹ thuật");
             cboKhoa.SelectedIndex = -1; // Không chọn sẵn mục nào
         }
 
