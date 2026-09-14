@@ -10,7 +10,11 @@
 Chương trình quản lý một mảng số nguyên bằng menu. Sau khi thực hiện xong một chức năng, chương trình quay lại menu cho đến khi người dùng chọn 0 - Thoát.
 
 ## 3. Chức năng
-![Minh họa giao diện](assets/01.png)
+
+<p align="center">
+  <img src="assets/01.png" alt="Minh họa giao diện" width="700">
+</p>
+
 1. Nhập mảng
    - Nhập số lượng phần tử `n`.
    - `n` phải là số nguyên dương.
@@ -66,54 +70,99 @@ Hoặc trong Visual Studio:
 ## 6. Dữ liệu kiểm thử
 ### Test 1
 - Nhap: n = 5; 4 1 9 2 7
-![Nhập mảng](assets/02.png)
+
+<p align="center">
+  <img src="assets/02.png" alt="Nhập mảng" width="700">
+</p>
 
 Ket qua can kiem tra:
 - Tong = 23
-![Tìm Sum](assets/03.png)
+
+<p align="center">
+  <img src="assets/03.png" alt="Tìm Sum" width="700">
+</p>
 
 - Max = 9; Min = 1
-![Tìm Max Min](assets/04.png)
+
+<p align="center">
+  <img src="assets/04.png" alt="Tìm Max Min" width="700">
+</p>
 
 - So phan tu chan = 2; So phan tu le = 3
-![Đếm chẵn, lẻ](assets/05.png)
+
+<p align="center">
+  <img src="assets/05.png" alt="Đếm chẵn, lẻ" width="700">
+</p>
 
 - Tim `x = 9` -> vi tri dau tien `2`.
-![Tìm x = 9](assets/06.png)
+
+<p align="center">
+  <img src="assets/06.png" alt="Tìm x = 9" width="700">
+</p>
 
 - Tim `x = 5` -> khong tim thay.
-![Tìm x = 5](assets/07.png)
+
+<p align="center">
+  <img src="assets/07.png" alt="Tìm x = 5" width="700">
+</p>
 
 ### Test 2
 - Nhap: n = 4; -3 0 8 -1
-![Nhập mảng](assets/11.png)
+
+<p align="center">
+  <img src="assets/11.png" alt="Nhập mảng" width="700">
+</p>
 
 Ket qua can kiem tra:
 - Tong = 4
-![Tìm Sum](assets/12.png)
+
+<p align="center">
+  <img src="assets/12.png" alt="Tìm Sum" width="700">
+</p>
 
 - Max = 8; Min = -3
-![Tìm Max Min](assets/13.png)
+
+<p align="center">
+  <img src="assets/13.png" alt="Tìm Max Min" width="700">
+</p>
 
 - So phan tu chan = 2; So phan tu le = 2
-![Đếm chẵn, lẻ](assets/14.png)
+
+<p align="center">
+  <img src="assets/14.png" alt="Đếm chẵn, lẻ" width="700">
+</p>
 
 
 ### Test 3 - dữ liệu sai
 - Nhap `n = 0` -> Ket thuc chuong trinh.
-![n = 0](assets/15.png)
 
-- Nhap `n` am -> yeu cau nhap lai.
-![n âm](assets/16.png)
+<p align="center">
+  <img src="assets/15.png" alt="n = 0" width="700">
+</p>
+
+- Nhap `n` am -> yeu cau nhap lai
+
+<p align="center">
+  <img src="assets/16.png" alt="n âm" width="700">
+</p>
 
 - Nhap chu thay vi so nguyen -> yeu cau nhap lai.
-![n chữ](assets/17.png)
+
+<p align="center">
+  <img src="assets/17.png" alt="n chữ" width="700">
+</p>
 
 - Chon menu ngoai khoang `0..7` -> thong bao loi va quay lai menu.
-![n != {0;7}](assets/18.png)
+
+<p align="center">
+  <img src="assets/18.png" alt="n != {0;7}" width="700">
+</p>
 
 - Chon chuc nang truoc khi nhap mang -> thong bao chua nhap mang va quay lai menu.
-![n != {0;7}](assets/19.png)
+
+<p align="center">
+  <img src="assets/19.png" alt="n != {0;7}" width="700">
+</p>
 
 
 ## 7. Ghi chú
