@@ -63,43 +63,39 @@ Hoặc trong Visual Studio:
 1. Mở file `Lab02.csproj`.
 2. Chạy project Console App.
 
-## 7. Dữ liệu kiểm thử
+## 6. Dữ liệu kiểm thử
 ### Test 1
-Nhap:
-n = 5
-4 1 9 2 7
+- Nhap: n = 5; 4 1 9 2 7
 ![Nhập mảng](assets/02.png)
 
 Ket qua can kiem tra:
-Tong = 23
+- Tong = 23
 ![Tìm Sum](assets/03.png)
 
-Max = 9; Min = 1
+- Max = 9; Min = 1
 ![Tìm Max Min](assets/04.png)
 
-So phan tu chan = 2; So phan tu le = 3
+- So phan tu chan = 2; So phan tu le = 3
 ![Đếm chẵn, lẻ](assets/05.png)
 
-Tim `x = 9` -> vi tri dau tien `2`.
+- Tim `x = 9` -> vi tri dau tien `2`.
 ![Tìm x = 9](assets/06.png)
 
-Tim `x = 5` -> khong tim thay.
+- Tim `x = 5` -> khong tim thay.
 ![Tìm x = 5](assets/07.png)
 
 ### Test 2
-Nhap:
-n = 4
--3 0 8 -1
+- Nhap: n = 4; -3 0 8 -1
 ![Nhập mảng](assets/11.png)
 
 Ket qua can kiem tra:
-Tong = 4
+- Tong = 4
 ![Tìm Sum](assets/12.png)
 
-Max = 8; Min = -3
+- Max = 8; Min = -3
 ![Tìm Max Min](assets/13.png)
 
-So phan tu chan = 2; So phan tu le = 2
+- So phan tu chan = 2; So phan tu le = 2
 ![Đếm chẵn, lẻ](assets/14.png)
 
 
@@ -120,5 +116,5 @@ So phan tu chan = 2; So phan tu le = 2
 ![n != {0;7}](assets/19.png)
 
 
-## 8. Ghi chú
-Vi tri tim kiem duoc tinh tu `0`, phu hop voi de bai.
+## 7. Ghi chú
+Vị trí tìm kiếm được tính từ `0`, phù hợp với đề bài.
