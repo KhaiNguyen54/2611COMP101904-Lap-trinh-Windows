@@ -81,18 +81,4 @@ Nhờ đa hình, mỗi loại nhân viên sẽ tự dùng cách hiển thị và
 Mở terminal tại thư mục repo hoặc chạy trực tiếp lệnh:
 dotnet run
 
-## Ví dụ nhập dữ liệu
-```text
-Nhap so luong nhan vien: 5
 
---- Nhap nhan vien thu 1 ---
-1. Nhan vien van phong
-2. Nhan vien kinh doanh
-Chon loai nhan vien: 1
-Nhap ma nhan vien: VP01
-Nhap ho ten: Nguyen Van A
-Nhap luong co ban: 5000000
-Nhap so ngay lam viec (0-31): 22
-```
-
-Sau khi nhập đủ nhân viên, chọn các chức năng trong menu để xem kết quả.
