@@ -34,16 +34,20 @@
 ![Xác nhận thông tin trước khi thoát](assets/Xacnhanthongtin.png)
 
 
-## Cách chạy bằng terminal
-Mở terminal cd đến thư mục project:
-cd "2611COMP101904-Lap-trinh-Windows\Lab01\Lab01_Ungdungthongtincanhan"
+## Cách chạy
 
-## Chạy Form:
-dotnet build Lab01.sln
-dotnet run --project Lab01.csproj
+1. Cách chạy bằng VS Code / Terminal
+Mở Terminal tại folder chứa file và chạy:
+dotnet restore
+dotnet build
+dotnet run
+
+2. Hoặc trong Visual Studio:
+Mở file `Lab01.csproj`.
+Chạy project Console App.
 
 ## Ghi chú 
-File `Lab01.sln` được cấu hình để trỏ đúng đến project `Lab01.csproj`. Project sử dụng target framework:
+Project sử dụng target framework:
 
 ```xml
 <TargetFramework>net10.0-windows</TargetFramework>

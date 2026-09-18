@@ -58,14 +58,15 @@ Chương trình quản lý một mảng số nguyên bằng menu. Sau khi thực
 
 
 ## 5. Cách chạy bằng VS Code / Terminal
-Mở Terminal tại thư mục `Lab02/Lab02` và chạy:
+1. Cách chạy bằng VS Code / Terminal
+Mở Terminal tại folder chứa file và chạy:
 dotnet restore
 dotnet build
 dotnet run
 
-Hoặc trong Visual Studio:
-1. Mở file `Lab02.csproj`.
-2. Chạy project Console App.
+2. Hoặc trong Visual Studio:
+Mở file `Lab02.csproj`.
+Chạy project Console App.
 
 ## 6. Dữ liệu kiểm thử
 ### Test 1
