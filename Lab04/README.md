@@ -152,14 +152,4 @@ Kết quả:
 - Không làm chương trình bị dừng bất thường.
 - Hiển thị thông báo lỗi rõ ràng và quay lại menu.
 
-## Tiêu chí chấm điểm
-
-| Tiêu chí | Điểm | Mô tả |
-| :--- | :---: | :--- |
-| Class, property, constructor | 2.0 | Đúng yêu cầu, có kiểm tra dữ liệu. |
-| Exception và xử lý lỗi | 2.0 | Có exception tự tạo, try-catch hợp lý. |
-| Event hoặc Action event | 2.0 | Thông báo khi thêm/xóa sản phẩm thành công. |
-| Generic Repository và Func | 2.0 | `Repository<T>` hoạt động, có tìm kiếm/lọc bằng Func. |
-| Menu, kiểm thử, format code | 2.0 | Chương trình dễ dùng, code rõ ràng, chạy ổn định. |
-
 

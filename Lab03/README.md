@@ -53,45 +53,67 @@ Chạy project Console App.
 
 ### Menu chính
 
-![Menu chinh](\assets\01.png)
+<p align="center">
+  <img src="assets/01.png" alt="Menu" width="700">
+</p>
 
 ### Thêm sinh viên thành công
 
-![Them sinh vien](\assets\02.png)
+<p align="center">
+  <img src="assets/02.png" alt="Thêm SV" width="700">
+</p>
 
 ### Thêm sinh viên với mã đã tồn tại
 
-![Them trung ma](\assets\03.png)
+<p align="center">
+  <img src="assets/03.png" alt="" width="700">
+</p>
 
 ### Kiểm tra dữ liệu điểm nhập vào (âm, lớn hơn 10, hợp lệ)
 
-![Validate diem](\assets\05.png)
+<p align="center">
+  <img src="assets/05.png" alt="" width="700">
+</p>
 
 ### Xuất danh sách sinh viên
 
-![Xuat danh sach](\assets\04.png)
+<p align="center">
+  <img src="assets/04.png" alt="" width="700">
+</p>
 
 ### Tìm sinh viên theo mã và không tồn tại
 
-![Tim theo ma](\assets\05.png)
+<p align="center">
+  <img src="assets/05.png" alt="" width="700">
+</p>
 
 
 ### Tìm sinh viên theo tên và không tồn tại
 
-![Tim theo ten](\assets\06.png)
+<p align="center">
+  <img src="assets/06.png" alt="" width="700">
+</p>
 
 ### Sửa điểm trung bình
 
-![Sua diem](\assets\07.png)
+<p align="center">
+  <img src="assets/07.png" alt="" width="700">
+</p>
 
 ### Xóa sinh viên với mã không tồn tại
 
-![Xoa khong ton tai](\assets\08.png)
+<p align="center">
+  <img src="assets/08.png" alt="" width="700">
+</p>
 
 ### Sắp xếp theo điểm giảm dần
 
-![Sap xep giam dan](\assets\09.png)
+<p align="center">
+  <img src="assets/09.png" alt="" width="700">
+</p>
 
 ### Lọc sinh viên đạt (điểm >= 5)
 
-![Loc sinh vien dat](\assets\10.png)
+<p align="center">
+  <img src="assets/10.png" alt="Menu" width="700">
+</p>
