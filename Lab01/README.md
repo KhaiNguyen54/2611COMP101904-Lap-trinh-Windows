@@ -2,11 +2,10 @@
 
 Ứng dụng WinForms dùng để nhập, kiểm tra và hiển thị thông tin cá nhân của sinh viên.
 
-## Thông tin bài lab
+## Thông tin
 - Môn học: Lập trình Windows
 - Công nghệ: C# WinForms
 - Framework: .NET 10
-- Project: `Lab01_Ungdungthongtincanhan`
 
 ## Chức năng chính
 ![Minh họa giao diện](assets/Giaodienchinh.png)
@@ -46,10 +45,5 @@ dotnet run
 Mở file `Lab01.csproj`.
 Chạy project Console App.
 
-## Ghi chú 
-Project sử dụng target framework:
 
-```xml
-<TargetFramework>net10.0-windows</TargetFramework>
-<UseWindowsForms>true</UseWindowsForms>
 ```

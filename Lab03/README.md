@@ -1,10 +1,12 @@
 # Lab 03 - Quản lý sinh viên bằng Console 
 
-## Thông tin sinh viên
+## Thông tin
 
-- Họ tên: Nguyễn Tuấn Khải
-- MSSV: 51.01.104.125
-- Lớp: 51.CNTTA
+- Học phần: COMP1019 - Lập trình Windows
+- Buổi: 2 - C# cơ bản
+- Lab: 02
+- Loại project: Console App C#
+- Target framework: .NET 10
 
 ## Mô tả
 

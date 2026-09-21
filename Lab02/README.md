@@ -166,5 +166,4 @@ Ket qua can kiem tra:
 </p>
 
 
-## 7. Ghi chú
-Vị trí tìm kiếm được tính từ `0`, phù hợp với đề bài.
+
